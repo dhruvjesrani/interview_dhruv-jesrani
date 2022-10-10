@@ -1,0 +1,227 @@
+.boxcontainer {
+  height: 720px;
+  background-color: bisque;
+  position: relative;
+  border: solid 30px gray;
+}
+
+a {
+    text-decoration: none;
+    color: tomato;
+}
+
+.pageonetext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  margin: 5%;
+  margin-right: 50%;
+  color: black;
+}
+
+.pagetwotext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 27px;
+  margin: 5%;
+  margin-left: 50%;
+
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+}
+
+.pagethreetext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  margin: 5%;
+  margin-right: 50%;
+
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.pagefourtext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  margin: 5%;
+
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.pagefivetext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  margin: 5%;
+  color: black;
+  
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  margin-left: 50%;
+}
+
+.pagesixtext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  margin: 5%;
+  margin-right: 50%;
+  color: tomato;
+}
+
+.pageseventext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  margin: 5%;
+  margin-right: 60%;
+  color: black;
+
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+}
+
+.pageeighttext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+  margin: 5%;
+  margin-right: 50%;
+
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+}
+
+.pageninetext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  margin: 5%;
+  margin-right: 50%;
+
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.pagetentext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 27px;
+  margin: 5%;
+  margin-left: 50%;
+  color: black;
+
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+}
+
+.pageeleventext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 35px;
+  margin: 5%;
+
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.pagetwelvetext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 55px;
+  margin: 5%;
+  
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  margin-left: 50%;
+}
+
+.pagethirteentext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 55px;
+  margin: 5%;
+  margin-right: 50%;
+  color: tomato;
+}
+
+.pagefourteentext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 55px;
+  margin: 5%;
+  margin-right: 60%;
+
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+}
+
+.pagefifteentext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  margin: 5%;
+  margin-right: 50%;
+
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+}
+
+.pagesixteentext {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 27px;
+  margin: 5%;
+  margin-left: 50%;
+  color: black;
+
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+}
+
+.boxtop {
+  outline: solid 3px tomato;
+  height: 50%;
+  width: 39.9%;
+  position: absolute;
+}
+
+.smallboxtop {
+  outline: solid 3px tomato;
+  position: absolute;
+  height: 50%;
+  width: 40%;
+
+  top: 0px;
+  right: 0px;
+}
+
+.boxright {
+  outline: solid 3px tomato;
+  width: 60%;
+  height: 100%;
+  position: absolute;
+
+  top: 0px;
+  right: 0px;
+}
+
+.boxbottom {
+  outline: solid 3px tomato;
+  height: 50%;
+  width: 39.9%;
+  position: absolute;
+
+  bottom: 0px;
+  left: 0px;
+}
+
+.smallboxbottom {
+  outline: solid 3px tomato;
+  position: absolute;
+  height: 50%;
+  width: 40%;
+
+  bottom: 0px;
+  right: 0px;
+}
